@@ -18,12 +18,15 @@
     },
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
     },
     "[python]": {
       "editor.defaultFormatter": "charliermarsh.ruff",
     },
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
     },
+    "java.project.sourcePaths": ["problems/java"],
   },
 }
