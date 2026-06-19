@@ -21,12 +21,16 @@
       "editor.tabSize": 2,
     },
     "[python]": {
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "always",
+      },
       "editor.defaultFormatter": "charliermarsh.ruff",
     },
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.tabSize": 2,
     },
+    "editor.formatOnSave": true,
     "java.project.sourcePaths": ["problems/java"],
   },
 }
