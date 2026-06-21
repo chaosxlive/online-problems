@@ -13,6 +13,7 @@
 | 1344 | Angle Between Hands of a Clock            |  V  |    V    |  V  |  V  |  V  |  V   |
 | 1732 | Find the Highest Altitude                 |  V  |    V    |  V  |  V  |  V  |  V   |
 | 1768 | Merge Strings Alternately                 |     |    V    |     |  V  |  V  |      |
+| 1833 | Maximum Ice Cream Bars                    |     |    V    |  V  |     |     |      |
 | 1840 | Maximum Building Height                   |     |    V    |  V  |     |     |      |
 | 2095 | Delete the Middle Node of a Linked List   |     |    V    |  V  |     |     |      |
 | 2130 | Maximum Twin Sum of a Linked List         |     |    V    |     |     |     |      |
