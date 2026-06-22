@@ -10,6 +10,7 @@
 | :--: | :---------------------------------------- | :-: | :-----: | :-: | :-: | :-: | :--: |
 | 0045 | Jump Game II                              |  V  |    V    |  V  |  V  |  V  |  V   |
 | 0380 | Insert Delete GetRandom O(1)              |     |    V    |     |     |     |      |
+| 1189 | Maximum Number of Balloons                |     |    V    |  V  |     |     |      |
 | 1344 | Angle Between Hands of a Clock            |  V  |    V    |  V  |  V  |  V  |  V   |
 | 1732 | Find the Highest Altitude                 |  V  |    V    |  V  |  V  |  V  |  V   |
 | 1768 | Merge Strings Alternately                 |     |    V    |     |  V  |  V  |      |
