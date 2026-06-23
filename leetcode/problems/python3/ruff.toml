@@ -1,4 +1,7 @@
 line-length = 180
 
+[lint]
+ignore = ["E741"]
+
 [lint.isort]
 combine-as-imports = true
