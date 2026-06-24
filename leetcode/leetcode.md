@@ -21,4 +21,5 @@
 | 3612 | Process String with Special Operations I  |     |    V    |     |     |     |      |
 | 3614 | Process String with Special Operations II |     |    V    |  V  |     |     |      |
 | 3699 | Number of ZigZag Arrays I                 |     |    V    |     |     |     |      |
+| 3700 | Number of ZigZag Arrays II                |     |    V    |  V  |     |     |      |
 | 3838 | Weighted Word Mapping                     |     |    V    |     |     |     |      |
