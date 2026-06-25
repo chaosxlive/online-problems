@@ -33,4 +33,26 @@
     "editor.formatOnSave": true,
     "java.project.sourcePaths": ["problems/java"],
   },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Add LeetCode Solve",
+        "type": "shell",
+        "command": "uv run script/add-solve.py",
+        "options": {
+          "cwd": "${workspaceFolder:Leetcode}",
+        },
+        "problemMatcher": [],
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": true,
+          "panel": "shared",
+          "showReuseMessage": true,
+          "clear": false,
+        },
+      },
+    ],
+  },
 }

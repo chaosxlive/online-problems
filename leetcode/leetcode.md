@@ -22,4 +22,6 @@
 | 3614 | Process String with Special Operations II |     |    V    |  V  |     |     |      |
 | 3699 | Number of ZigZag Arrays I                 |     |    V    |     |     |     |      |
 | 3700 | Number of ZigZag Arrays II                |     |    V    |  V  |     |     |      |
+| 3737 | Count Subarrays With Majority Element I   |     |    V    |     |     |     |      |
+| 3739 | Count Subarrays With Majority Element II  |     |    V    |     |     |     |      |
 | 3838 | Weighted Word Mapping                     |     |    V    |     |     |     |      |
