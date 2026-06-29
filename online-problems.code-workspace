@@ -10,6 +10,9 @@
     },
   ],
   "settings": {
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
     "[jsonc]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
@@ -20,18 +23,23 @@
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.tabSize": 2,
     },
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
     "[python]": {
       "editor.codeActionsOnSave": {
         "source.organizeImports": "always",
       },
-      "editor.defaultFormatter": "charliermarsh.ruff",
+      "editor.defaultFormatter": "eeyore.yapf",
     },
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.tabSize": 2,
     },
+    "basedpyright.analysis.typeCheckingMode": "off",
     "editor.formatOnSave": true,
     "java.project.sourcePaths": ["problems/java"],
+    "yapf.args": ["--style", "{based_on_style: google,column_limit: 180}"],
   },
   "tasks": {
     "version": "2.0.0",
