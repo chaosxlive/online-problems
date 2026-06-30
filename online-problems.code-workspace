@@ -28,9 +28,11 @@
     },
     "[python]": {
       "editor.codeActionsOnSave": {
-        "source.organizeImports": "always",
+        "source.organizeImports": "explicit",
       },
       "editor.defaultFormatter": "eeyore.yapf",
+      "editor.formatOnSave": true,
+      "editor.formatOnType": false,
     },
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
