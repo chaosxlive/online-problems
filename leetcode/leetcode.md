@@ -21,6 +21,7 @@
 | 1967 | Number of Strings That Appear as Substrings in Word  |     |    V    |     |     |     |      | [#1967](#no-1967) |
 | 2095 | Delete the Middle Node of a Linked List              |     |    V    |  V  |     |     |      |                   |
 | 2130 | Maximum Twin Sum of a Linked List                    |     |    V    |     |     |     |      |                   |
+| 2812 | Find the Safest Path in a Grid                       |     |    V    |     |     |     |      |                   |
 | 3020 | Find the Maximum Number of Elements in Subset        |     |    V    |  V  |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
 | 3614 | Process String with Special Operations II            |     |    V    |  V  |     |     |      |                   |
