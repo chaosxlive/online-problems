@@ -23,6 +23,7 @@
 | 2130 | Maximum Twin Sum of a Linked List                    |     |    V    |     |     |     |      |                   |
 | 2812 | Find the Safest Path in a Grid                       |     |    V    |     |     |     |      |                   |
 | 3020 | Find the Maximum Number of Elements in Subset        |     |    V    |  V  |     |     |      |                   |
+| 3286 | Find a Safe Walk Through a Grid                      |     |    V    |     |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
 | 3614 | Process String with Special Operations II            |     |    V    |  V  |     |     |      |                   |
 | 3699 | Number of ZigZag Arrays I                            |     |    V    |     |     |     |      |                   |
