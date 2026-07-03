@@ -26,6 +26,7 @@
 | 3286 | Find a Safe Walk Through a Grid                      |     |    V    |     |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
 | 3614 | Process String with Special Operations II            |     |    V    |  V  |     |     |      |                   |
+| 3620 | Network Recovery Pathways                            |     |    V    |     |     |     |      |                   |
 | 3699 | Number of ZigZag Arrays I                            |     |    V    |     |     |     |      |                   |
 | 3700 | Number of ZigZag Arrays II                           |     |    V    |  V  |     |     |      |                   |
 | 3737 | Count Subarrays With Majority Element I              |     |    V    |     |     |     |      |                   |
