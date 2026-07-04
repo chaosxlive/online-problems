@@ -1,6 +1,7 @@
 line-length = 180
 
 [lint]
+select = ["E", "F", "I"]
 ignore = ["E741"]
 
 [lint.isort]

@@ -28,7 +28,8 @@
     },
     "[python]": {
       "editor.codeActionsOnSave": {
-        "source.organizeImports": "explicit",
+        "source.fixAll.ruff": "explicit",
+        "source.organizeImports.ruff": "explicit",
       },
       "editor.defaultFormatter": "eeyore.yapf",
       "editor.formatOnSave": true,
