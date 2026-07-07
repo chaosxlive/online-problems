@@ -11,6 +11,7 @@
 | 0045 | Jump Game II                                         |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 0380 | Insert Delete GetRandom O(1)                         |     |    V    |     |     |     |      |                   |
 | 1189 | Maximum Number of Balloons                           |     |    V    |  V  |     |     |      |                   |
+| 1288 | Remove Covered Intervals                             |     |    V    |     |     |     |      |                   |
 | 1344 | Angle Between Hands of a Clock                       |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 1358 | Number of Substrings Containing All Three Characters |     |    V    |     |     |     |      |                   |
 | 1732 | Find the Highest Altitude                            |  V  |    V    |  V  |  V  |  V  |  V   |                   |
@@ -32,6 +33,7 @@
 | 3700 | Number of ZigZag Arrays II                           |     |    V    |  V  |     |     |      |                   |
 | 3737 | Count Subarrays With Majority Element I              |     |    V    |     |     |     |      |                   |
 | 3739 | Count Subarrays With Majority Element II             |     |    V    |     |     |     |      |                   |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I    |     |    V    |     |     |     |      |                   |
 | 3838 | Weighted Word Mapping                                |     |    V    |     |     |     |      |                   |
 
 ### 備註
