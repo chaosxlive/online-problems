@@ -34,6 +34,7 @@
 | 3737 | Count Subarrays With Majority Element I              |     |    V    |     |     |     |      |                   |
 | 3739 | Count Subarrays With Majority Element II             |     |    V    |     |     |     |      |                   |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I    |     |    V    |     |     |     |      |                   |
+| 3756 | Concatenate Non-Zero Digits and Multiply by Sum II   |     |    V    |     |     |     |      |                   |
 | 3838 | Weighted Word Mapping                                |     |    V    |     |     |     |      |                   |
 
 ### 備註
