@@ -12,6 +12,7 @@
 | 0380 | Insert Delete GetRandom O(1)                         |     |    V    |     |     |     |      |                   |
 | 1189 | Maximum Number of Balloons                           |     |    V    |  V  |     |     |      |                   |
 | 1288 | Remove Covered Intervals                             |     |    V    |     |     |     |      |                   |
+| 1301 | Number of Paths with Max Score                       |     |    V    |     |     |     |      |                   |
 | 1344 | Angle Between Hands of a Clock                       |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 1358 | Number of Substrings Containing All Three Characters |     |    V    |     |     |     |      |                   |
 | 1732 | Find the Highest Altitude                            |  V  |    V    |  V  |  V  |  V  |  V   |                   |
