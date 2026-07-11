@@ -24,6 +24,7 @@
 | 2095 | Delete the Middle Node of a Linked List              |     |    V    |  V  |     |     |      |                   |
 | 2130 | Maximum Twin Sum of a Linked List                    |     |    V    |     |     |     |      |                   |
 | 2492 | Minimum Score of a Path Between Two Cities           |     |    V    |     |     |     |      |                   |
+| 2685 | Count the Number of Complete Components              |     |    V    |     |     |     |      |                   |
 | 2812 | Find the Safest Path in a Grid                       |     |    V    |     |     |     |      |                   |
 | 3020 | Find the Maximum Number of Elements in Subset        |     |    V    |  V  |     |     |      |                   |
 | 3286 | Find a Safe Walk Through a Grid                      |     |    V    |     |     |     |      |                   |
