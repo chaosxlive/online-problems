@@ -13,6 +13,7 @@
 | 0701 | Insert into a Binary Search Tree                     |     |    V    |     |     |     |      |                   |
 | 1189 | Maximum Number of Balloons                           |     |    V    |  V  |     |     |      |                   |
 | 1288 | Remove Covered Intervals                             |     |    V    |     |     |     |      |                   |
+| 1291 | Sequential Digits                                    |     |    V    |     |     |     |      |                   |
 | 1301 | Number of Paths with Max Score                       |     |    V    |     |     |     |      |                   |
 | 1331 | Rank Transform of an Array                           |     |    V    |     |     |     |      |                   |
 | 1344 | Angle Between Hands of a Clock                       |  V  |    V    |  V  |  V  |  V  |  V   |                   |
