@@ -31,11 +31,13 @@
 | 2812 | Find the Safest Path in a Grid                       |     |    V    |     |     |     |      |                   |
 | 3020 | Find the Maximum Number of Elements in Subset        |     |    V    |  V  |     |     |      |                   |
 | 3286 | Find a Safe Walk Through a Grid                      |     |    V    |     |     |     |      |                   |
+| 3336 | Find the Number of Subsequences With Equal GCD       |     |    V    |     |     |     |      |                   |
 | 3532 | Path Existence Queries in a Graph I                  |     |    V    |     |     |     |      |                   |
 | 3534 | Path Existence Queries in a Graph II                 |     |    V    |     |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
 | 3614 | Process String with Special Operations II            |     |    V    |  V  |     |     |      |                   |
 | 3620 | Network Recovery Pathways                            |     |    V    |     |     |     |      |                   |
+| 3658 | GCD of Odd and Even Sums                             |     |    V    |     |     |     |      |                   |
 | 3699 | Number of ZigZag Arrays I                            |     |    V    |     |     |     |      |                   |
 | 3700 | Number of ZigZag Arrays II                           |     |    V    |  V  |     |     |      |                   |
 | 3737 | Count Subarrays With Majority Element I              |     |    V    |     |     |     |      |                   |
