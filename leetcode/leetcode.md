@@ -45,6 +45,7 @@
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I    |     |    V    |     |     |     |      |                   |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II   |     |    V    |     |     |     |      |                   |
 | 3838 | Weighted Word Mapping                                |     |    V    |     |     |     |      |                   |
+| 3867 | Sum of GCD of Formed Pairs                           |     |    V    |     |     |     |      |                   |
 
 ### 備註
 
