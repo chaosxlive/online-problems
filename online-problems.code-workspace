@@ -5,6 +5,14 @@
       "path": "./leetcode",
     },
     {
+      "name": "HackerRank",
+      "path": "./hackerrank",
+    },
+    {
+      "name": "Google CTF",
+      "path": "./google_ctf",
+    },
+    {
       "name": "Root",
       "path": ".",
     },
