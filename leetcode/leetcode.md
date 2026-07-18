@@ -24,6 +24,7 @@
 | 1840 | Maximum Building Height                              |     |    V    |  V  |     |     |      | [#1840](#no-1840) |
 | 1846 | Maximum Element After Decreasing and Rearranging     |     |    V    |     |     |     |      |                   |
 | 1967 | Number of Strings That Appear as Substrings in Word  |     |    V    |     |     |     |      | [#1967](#no-1967) |
+| 1979 | Find Greatest Common Divisor of Array                |     |    V    |     |     |     |      |                   |
 | 2095 | Delete the Middle Node of a Linked List              |     |    V    |  V  |     |     |      |                   |
 | 2130 | Maximum Twin Sum of a Linked List                    |     |    V    |     |     |     |      |                   |
 | 2492 | Minimum Score of a Path Between Two Cities           |     |    V    |     |     |     |      |                   |
