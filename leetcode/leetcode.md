@@ -12,6 +12,7 @@
 | 0380 | Insert Delete GetRandom O(1)                         |     |    V    |     |     |     |      |                   |
 | 0701 | Insert into a Binary Search Tree                     |     |    V    |     |     |     |      |                   |
 | 1189 | Maximum Number of Balloons                           |     |    V    |  V  |     |     |      |                   |
+| 1260 | Shift 2D Grid                                        |     |    V    |     |     |     |      |                   |
 | 1288 | Remove Covered Intervals                             |     |    V    |     |     |     |      |                   |
 | 1291 | Sequential Digits                                    |     |    V    |     |     |     |      |                   |
 | 1301 | Number of Paths with Max Score                       |     |    V    |     |     |     |      |                   |
