@@ -35,6 +35,7 @@
 | 3286 | Find a Safe Walk Through a Grid                      |     |    V    |     |     |     |      |                   |
 | 3312 | Sorted GCD Pair Queries                              |     |    V    |     |     |     |      |                   |
 | 3336 | Find the Number of Subsequences With Equal GCD       |     |    V    |     |     |     |      |                   |
+| 3499 | Maximize Active Section with Trade I                 |     |    V    |     |     |     |      |                   |
 | 3532 | Path Existence Queries in a Graph I                  |     |    V    |     |     |     |      |                   |
 | 3534 | Path Existence Queries in a Graph II                 |     |    V    |     |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
