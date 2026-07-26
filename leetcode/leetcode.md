@@ -10,6 +10,7 @@
 | :--: | :--------------------------------------------------- | :-: | :-----: | :-: | :-: | :-: | :--: | ----------------- |
 | 0045 | Jump Game II                                         |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 0380 | Insert Delete GetRandom O(1)                         |     |    V    |     |     |     |      |                   |
+| 0628 | Maximum Product of Three Numbers                     |     |    V    |     |     |     |  V   |                   |
 | 0701 | Insert into a Binary Search Tree                     |     |    V    |     |     |     |      |                   |
 | 1189 | Maximum Number of Balloons                           |     |    V    |  V  |     |     |      |                   |
 | 1260 | Shift 2D Grid                                        |     |    V    |     |     |     |      |                   |
@@ -36,8 +37,11 @@
 | 3312 | Sorted GCD Pair Queries                              |     |    V    |     |     |     |      |                   |
 | 3336 | Find the Number of Subsequences With Equal GCD       |     |    V    |     |     |     |      |                   |
 | 3499 | Maximize Active Section with Trade I                 |     |    V    |     |     |     |      |                   |
+| 3501 | Maximize Active Section with Trade II                |     |    V    |     |     |     |      |                   |
+| 3513 | Number of Unique XOR Triplets I                      |     |    V    |     |     |     |      |                   |
 | 3532 | Path Existence Queries in a Graph I                  |     |    V    |     |     |     |      |                   |
 | 3534 | Path Existence Queries in a Graph II                 |     |    V    |     |     |     |      |                   |
+| 3536 | Maximum Product of Two Digits                        |     |    V    |     |     |     |      |                   |
 | 3612 | Process String with Special Operations I             |     |    V    |     |     |     |      |                   |
 | 3614 | Process String with Special Operations II            |     |    V    |  V  |     |     |      |                   |
 | 3620 | Network Recovery Pathways                            |     |    V    |     |     |     |      |                   |
