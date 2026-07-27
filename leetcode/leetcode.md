@@ -20,6 +20,7 @@
 | 1331 | Rank Transform of an Array                           |     |    V    |     |     |     |      |                   |
 | 1344 | Angle Between Hands of a Clock                       |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 1358 | Number of Substrings Containing All Three Characters |     |    V    |     |     |     |      |                   |
+| 1464 | Maximum Product of Two Elements in an Array          |     |    V    |     |     |     |      |                   |
 | 1732 | Find the Highest Altitude                            |  V  |    V    |  V  |  V  |  V  |  V   |                   |
 | 1768 | Merge Strings Alternately                            |     |    V    |     |  V  |  V  |      |                   |
 | 1833 | Maximum Ice Cream Bars                               |     |    V    |  V  |     |     |      |                   |
